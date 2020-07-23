@@ -1,6 +1,6 @@
 # DANH-MUC-ANDROID
 Nơi Lưu Trữ Các Bài Tập Androi </br>
-|    Bài Tập                                                                                                     |Bài Kham Khảo                |Ngày Đăng Bài|
+|    Bài Tập                                                                                                     |            |Ngày Đăng Bài|
 | ------------- |:-------------:| -----:|
 |[Bài 1 :Hello](https://github.com/PHAMBANHATHUNG/BTLAMQUEN)                                                              |                             |23/07/2020   |
 |[Bài 2 : Event](https://github.com/PHAMBANHATHUNG/BTSUKIEN)                                              |                             |23/07/2020   |
